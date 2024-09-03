@@ -1,0 +1,6 @@
+[submodule "pinterest-data-pipeline"]
+	path = pinterest-data-pipeline
+	url = https://github.com/alexander-close/pinterest-data-pipeline235.git
+[submodule "multinational-retail-data-centralisation"]
+	path = multinational-retail-data-centralisation
+	url = https://github.com/alexander-close/multinational-retail-data-centralisation168.git
