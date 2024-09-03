@@ -3,7 +3,7 @@
 In this notebook are presented some analytic enquires into levels of UK crime with the aim to investigate rates of change in murder and attempted murder as both a time series and geographic cluster.
 
 ### Dependencies
-`pandas`  `numpy` `matplotlib`  `seaborn`  `sklearn`
+`pandas`  `matplotlib`  `seaborn`  `sklearn`
 ### File structure
 One `.ipynb` containing the analysis code and one `.ods` file containing the dataset.
 
